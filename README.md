@@ -182,12 +182,15 @@ Automation & AI
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wspogi&show_icons=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wspogi&layout=compact&hide_border=true" height="165" />
-</p>
+I use GitHub to document and version-control my work across **data engineering, business intelligence, SQL, Power BI, SAP Business One, and automation projects**.
+
+- 💻 GitHub Profile: [@wspogi](https://github.com/wspogi)
+- 🏗️ Featured Repository: [ilaw-data-warehouse](https://github.com/wspogi/ilaw-data-warehouse)
+- 📚 Focus: Data Engineering • BI • SQL • Power Platform • Enterprise Systems
+
+> GitHub activity and repository history provide the most up-to-date view of my technical work and project development.
 
 ---
 
